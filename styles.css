@@ -11,3 +11,15 @@ body{
 
 }
 
+
+.card{
+    width: 90%;
+    max-width: 470px;
+    background:linear-gradient(135deg, #FF1B64 , #8B47FC);
+    color: #fff;
+    margin: 20px;
+    border-radius: 25px;
+    padding: 40px;
+}
+
+

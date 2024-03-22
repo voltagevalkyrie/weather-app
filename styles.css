@@ -17,9 +17,10 @@ body{
     max-width: 470px;
     background:linear-gradient(135deg, #FF1B64 , #8B47FC);
     color: #fff;
-    margin: 20px;
+    margin: 100px auto 0;
     border-radius: 25px;
-    padding: 40px;
+    padding: 40px 25px ;
+    text-align: centers;
 }
 
 
